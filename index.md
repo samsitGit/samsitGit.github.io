@@ -10,7 +10,7 @@ title: Summer 2021 DREU Project Site
 
 Hello there.
 
-Yep, my last name is Sit. Sometimes I think it's like a superhero name since both of the words have the same amount of letters and start with the same letter. Anyways, I am a rising third year majoring in Computing and Information Technologies. I'm from Quincy, MA.
+Yep, my name is Sam Sit. Sometimes I think it's like a superhero name since both of the words have the same amount of letters and start with the same letter. Anyways, I am a rising third year majoring in Computing and Information Technologies. I'm from Quincy, MA.
 
 #### Some fun facts about me
 * I was a member of the "first" deaf youth magicians Club.
