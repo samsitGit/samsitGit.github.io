@@ -130,5 +130,11 @@ communities and to expand consideration for deaf
 populations in the field of public health.
 
 ## About My Project
-
-[My Final Report](files/finalreport.pdf)
+The purpose of this research is to increase the accessibility of captions in WebRTC and RTT in
+order to ease the transmitting of information during a conversation between a user speaking
+orally and deaf or hard-of-hearing users. In this paper, we look into which settings are preferred
+and if they are influenced by a multitude of factors. We propose that WebRTC applications
+include an option for dynamic caption, which is a setting where the caption is displayed next to
+the speaker’s head, and a texting setting that allows RTT communication in a letter-by-letter
+format, as captioning options.
+[My Final Report](files/WebRTC Research Paper.pdf)
