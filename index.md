@@ -32,6 +32,7 @@ Yep, my name is Sam Sit. Sometimes I think it's like a superhero name since both
 #### Raja Kushalnagar
 * PI and Mentor
 * he/him
+
 Raja Kushalnagar is the Director of the Information
 Technology program in the Department of Science,
 Technology and Mathematics at Gallaudet University in
@@ -50,6 +51,7 @@ reached at raja.kushalnagar@gallaudet.edu.
 #### Christian Vogler
 * Co-PI and Mentor
 * he/his
+
 Dr. Christian Vogler is a professor in the School of
 Science, Technology, Accessibility, Mathematics and
 Public Health. He also is the director of the
@@ -66,6 +68,7 @@ voice interfaces.
 #### Linda Kozma-Spytek
 * Mentor
 * she/her
+
 Linda Kozma-Spytek is Senior Research Audiologist in the
 Technology Access Program of Gallaudet University. She
 also co-directs the Deaf and Hard of Hearing Technology
@@ -74,7 +77,6 @@ University, funded by the National Institute on Disability,
 Independent Living and Rehabilitation Research. Her 
 research includes investigating the use of Internet Protocol-
 Captioned Telephone Service (IP-CTS), the compatibility of
-
 digital cellular telephones and hearing aids and the
 accessibility of VoIP telephony applications for individuals
 with hearing loss. She is active in standards development
@@ -85,6 +87,7 @@ Loss Association of America (HLAA).
 #### Norman Williams
 * Mentor
 * he/him
+
 Norman Williams is the senior research engineer for
 Technology Access Program. He is deaf and has an AAS
 degree from the National Technical Institute for the Deaf
@@ -115,6 +118,7 @@ of show captions in web videos.
 #### Katja Jacobs
 * Graduate Mentor
 * she/her
+
 Hi everyone! My name is Katja and I’m from Seattle,
 Washington. Since graduating from the University of
 Washington with a degree in Medical Anthropology and
